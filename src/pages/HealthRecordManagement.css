@@ -1,0 +1,509 @@
+.navbar-child11,
+.navbar-child12 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child11 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child12 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community6 {
+  margin: 0;
+}
+.community-forum5 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon5,
+.image-11-icon5 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon5 {
+  left: 243px;
+}
+.schedule-appointment5,
+.support-ngos5 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos5 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon6 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container5 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon6 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container5 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon5 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart5 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon6 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram5 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon6 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.loginsignup5 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon6 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience5,
+.rewards5 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience5 {
+  left: 1025px;
+}
+.image-19-icon6 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.navbar-child13 {
+  position: absolute;
+  top: 12px;
+  left: 7px;
+  background-color: var(--color-lightseagreen-100);
+  width: 146px;
+  height: 63px;
+  cursor: pointer;
+}
+.healthcare-low-resolution-logo-icon5,
+.image-9-icon5 {
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  object-fit: cover;
+}
+.image-9-icon5 {
+  top: 124px;
+  left: 40px;
+  width: 40px;
+  height: 40px;
+}
+.navbar5 {
+  position: absolute;
+  top: calc(50% - 1759.5px);
+  left: calc(50% - 712px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+}
+.background4,
+.footer13 {
+  position: absolute;
+  left: 0;
+}
+.footer13 {
+  height: 107.35%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gainsboro);
+}
+.background4 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 529px;
+}
+.poltica-de-privacidad4 {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.poltica-de-privacidad-parent1 {
+  position: absolute;
+  height: 7.29%;
+  width: 45.79%;
+  top: 92.71%;
+  right: 0;
+  bottom: 0;
+  left: 54.21%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.iconlink4,
+.icontwitter4 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlink4 {
+  display: none;
+}
+.icontwitter-parent2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.divider4,
+.footer14 {
+  position: absolute;
+  height: 6.94%;
+  width: 9.36%;
+  top: 93.03%;
+  right: 90.64%;
+  bottom: 0.03%;
+  left: 0;
+}
+.divider4 {
+  height: 0.28%;
+  width: 99.53%;
+  top: 87.5%;
+  right: 0.33%;
+  bottom: 12.22%;
+  left: 0.14%;
+  background-color: var(--white);
+  opacity: 0.25;
+}
+.empresa9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.insights4,
+.sobre-nosotros4,
+.soluciones4 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.insights4,
+.soluciones4 {
+  top: 125px;
+}
+.insights4 {
+  top: 186px;
+}
+.empresa8 {
+  position: absolute;
+  top: 38.64px;
+  left: 362.42px;
+  width: 96px;
+  height: 207px;
+}
+.categoras9 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.categoras8,
+.competencias-digitales-parent2 {
+  position: absolute;
+  height: 71.83%;
+  width: 17.42%;
+  top: 0;
+  right: 30.73%;
+  bottom: 28.17%;
+  left: 51.85%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.competencias-digitales-parent2 {
+  height: 49.62%;
+  width: 16.11%;
+  top: 20.1%;
+  right: 8.31%;
+  bottom: 30.28%;
+  left: 75.58%;
+}
+.footer-9-dark4,
+.footer-ui4 {
+  position: absolute;
+  height: 67.24%;
+  width: 74.94%;
+  top: 14.32%;
+  right: 12.46%;
+  bottom: 18.44%;
+  left: 12.6%;
+}
+.footer-9-dark4 {
+  height: 106.87%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.footer12 {
+  position: absolute;
+  top: 3108px;
+  left: 248px;
+  width: 1425px;
+  height: 401px;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  color: var(--white);
+  font-family: var(--b3-14);
+}
+.health-record-management-child,
+.health-record-management-item {
+  position: absolute;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1921px;
+  height: 1px;
+}
+.health-record-management-child {
+  top: calc(50% - 1443px);
+  left: calc(50% - 960.5px);
+}
+.health-record-management-item {
+  top: 3001.5px;
+  left: -0.5px;
+}
+.health-record-management-inner {
+  position: absolute;
+  top: calc(50% - 1442.5px);
+  left: calc(50% - 960px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-500);
+  width: 518px;
+  height: 2690px;
+}
+.overview,
+.progress-plan {
+  position: absolute;
+  top: calc(50% - 1398.5px);
+  line-height: 150%;
+  display: inline-block;
+}
+.overview {
+  left: calc(50% - 364px);
+  color: #ff9090;
+  width: 212px;
+  height: 62px;
+}
+.progress-plan {
+  left: calc(50% - 137px);
+  width: 339px;
+  height: 44px;
+}
+.health-record-management-child1 {
+  position: absolute;
+  top: calc(50% - 1394.5px);
+  left: calc(50% + 263px);
+  background-color: var(--color-aliceblue);
+  width: 171px;
+  height: 58px;
+  cursor: pointer;
+}
+.documents1,
+.visits1 {
+  position: absolute;
+  top: calc(50% - 1398.5px);
+  left: calc(50% + 282px);
+  line-height: 150%;
+  display: inline-block;
+  width: 123px;
+  height: 51px;
+}
+.documents1 {
+  left: calc(50% + 462px);
+  width: 255px;
+  height: 34px;
+}
+.image-142-icon {
+  position: absolute;
+  top: calc(50% - 1394.5px);
+  left: calc(50% - 827px);
+  width: 432px;
+  height: 1055px;
+  object-fit: cover;
+}
+.image-143-icon,
+.image-144-icon,
+.image-146-icon {
+  position: absolute;
+  top: calc(50% - 1191.5px);
+  left: calc(50% - 367px);
+  width: 528px;
+  height: 627px;
+  object-fit: cover;
+}
+.image-144-icon,
+.image-146-icon {
+  top: calc(50% - 213.5px);
+  left: calc(50% - 795px);
+  width: 368px;
+  height: 1250px;
+}
+.image-146-icon {
+  top: calc(50% - 1206.5px);
+  left: calc(50% + 161px);
+  width: 624px;
+  height: 392px;
+}
+.image-147-icon,
+.image-148-icon,
+.image-149-icon {
+  position: absolute;
+  top: calc(50% - 434.5px);
+  left: calc(50% - 11px);
+  width: 433px;
+  height: 581px;
+  object-fit: cover;
+}
+.image-148-icon,
+.image-149-icon {
+  top: calc(50% + 777.5px);
+  left: calc(50% - 294px);
+  width: 662px;
+  height: 333px;
+}
+.image-149-icon {
+  top: calc(50% + 276.5px);
+  left: calc(50% - 325px);
+  width: 1251px;
+  height: 371px;
+}
+.health-record-management {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 3509px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
