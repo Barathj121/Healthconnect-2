@@ -8,5 +8,5 @@
   2) In the terminal, run `npm install`
   3) Then run 'npm install firebase' for the db.
   4) Run `npm start` to view project in browser
-  5) Healthconnect hosted as website as reference : 
+  5) Healthconnect hosted as website as reference : http://13.235.114.236:3000
   
